@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bakhtawar097
-- 👀 Full Stack Develover
+- 👀 Full Stack Developer
 - 📫 How to reach me bakhawarkhan399@gmail.com
 - 😄 Pronouns: Bakht Khan
-- ⚡ Fun fact: Pro Programmer
+- ⚡ Fun fact: Programing
 
